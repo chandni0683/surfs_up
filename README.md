@@ -16,7 +16,8 @@ Following is the last 12 months of temperature observation data
 <img width="421" alt="Screen Shot 2021-08-22 at 9 02 27 AM" src="https://user-images.githubusercontent.com/85711507/130358036-263bce2f-1901-467f-9834-2b326edda6a8.png">
 
 ## Summary
-The precipitation is a bit higher in December than in June
+The precipitation is a bit higher in December than in June. From looking at the data it appears that it rains more in December which would not be suitable month for surfing
+The data shows that december month is cooler than June, but this could result in less business for icecream and surfing. 
 
 
 
